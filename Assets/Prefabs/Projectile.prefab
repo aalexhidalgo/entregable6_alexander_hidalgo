@@ -492,8 +492,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4dfd4897104f184dbf0c1449e37306e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 5
-  UpperLimit: 6
-  LowerLimit: -6
-  RightLimit: 7
-  LeftLimit: -7
